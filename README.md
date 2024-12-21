@@ -30,3 +30,4 @@ sudo apt install git && git clone https://github.com/Neko-32/PiDoorNotifier.git 
 
 ![image](https://raw.githubusercontent.com/Neko-32/Neko-32/refs/heads/main/396451274-db82f439-e382-4ead-b998-f24824a8b7e5.png)  
 最後這張圖只是附給那些說 Linux 爛的人看的
+test
