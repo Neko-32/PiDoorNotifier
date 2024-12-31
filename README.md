@@ -28,5 +28,17 @@ sudo apt install git && git clone https://github.com/Neko-32/PiDoorNotifier.git 
   - [SSH 遠端連線 - HackMD](https://hackmd.io/@jiazheng/ByLzJIvlkl)
   - [Gmail API 總覽](https://developers.google.com/gmail/api/guides?hl=zh-tw)
 
-![image](https://raw.githubusercontent.com/Neko-32/Neko-32/refs/heads/main/396451274-db82f439-e382-4ead-b998-f24824a8b7e5.png)  
-最後這張圖只是附給那些說 Linux 爛的人看的
+順便附個酷東西：https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Chiyo_Mihama_With_Python_Homework.png)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Hirasawa_Yui_Studying_For_interview.png)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Nijika_Ijichi_Think_Python.png?raw=true)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Confused_Frieren_Holding_The_C++_Programming_Language.png?raw=true)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Frieren_Holding_Komputer_Swiat_C%2B%2B_Course.png)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Mixed/Yui_Hirasawa_Holding_A_Lot_Of_Books.jpg)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Linux/Frieren_Beyond_Journey's_End_Holding_Bash_Scripting_Book.jpg?raw=true)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Linux/Ryo_Yamada_Reading_ArchLinux_Book.jpg?raw=true)  
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakura_Nene_CPP.jpg?raw=true)
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakura_Nene_CPP_Covered.jpg?raw=true)
+![](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakura_Nene_CPP_Fullface.png?raw=true)  
+連結裡有更多：)
