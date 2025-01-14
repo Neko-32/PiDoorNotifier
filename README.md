@@ -10,9 +10,7 @@
 
 如果嫌 Windows 10 內建的 Terminal 難用可以下載新版的 [Windows Terminal](https://github.com/microsoft/terminal)
 
-安裝 git & 使用 git 複製此儲存庫 & 安裝（[base64](https://zh.wikipedia.org/zh-tw/Base64) 解碼然後[凱薩](https://aikawa0617.medium.com/%E5%AF%86%E7%A2%BC%E5%AD%B8-%E4%B8%80-%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A2%BC%E5%AD%B8-455e43038241)解密）  
-工具：[base64](https://www.base64decode.org/zh/)、[凱薩密碼](https://planetcalc.com/1434/)
-
+安裝 git & 使用 git 複製此儲存庫 & 安裝
 ```
 sudo apt install git && git clone https://github.com/Neko-32/PiDoorNotifier.git && chmod +x ./PiDoorNotifier/install.sh && ./PiDoorNotifier/install.sh
 ```
